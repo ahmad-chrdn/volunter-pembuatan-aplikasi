@@ -7,3 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Ahmad Choirudin, [LinkedIn](https://www.linkedin.com/in/ahmad-choirudin/).
+* Rudi, [GitHub](https://github.com/AC-Tech29/).
